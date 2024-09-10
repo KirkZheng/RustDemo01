@@ -1,4 +1,4 @@
 fn main() {
-    // 在这里编写你的应用逻辑
-    println!("Hello, World!");
+    let num = 10; // 声明一个整数变量num，并赋值为10
+    println!("The value of num is: {}", num); // 打印num的值
 }
